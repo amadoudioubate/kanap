@@ -18,7 +18,7 @@ Votre client est Kanap, une marque de canapés qui vend ses produits depuis sa b
 
 ### Prérequis back-end ###
 
-Vous aurez besoin d'avoir ### Node et ### npm installés localement sur votre machine.
+Vous aurez besoin d'avoir "Node" et "npm" installés localement sur votre machine.
 
 ### Installation back-end ###
 
